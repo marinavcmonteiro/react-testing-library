@@ -1,5 +1,4 @@
 import { PokemonType } from '../types';
-
 import './favorite-pokemon.css';
 import { Pokemon } from '../components';
 
